@@ -1,0 +1,9 @@
+# FeynmanSummary (Week 1)
+    *  12/07/2026 SUNDAY - I started installing Python on my local. also Visual Studio Code, Git & Github. I also installed IA extentions tools as a Gemini Code Assist. But tourns out that Google had a new tool called  Antigravity. so I choose to continue with this one.
+        I created one Repo on Github called "STUDY-FINANCE-IA" I know that the name it could be more technicall but I decided this one to start.
+    *  13/07/2026 MONDAY - I started the free course of CS50P week 0 I learn a few years before just a little bit of C+ and Javascript programming lenguage so this part was really easy for me. I brush up the functions, variables (theory and started with the problemSet 0)
+    *  14/07/2026 TUESDAY - I resolve the problemSet 0 of this course finishing the homework for that day. 
+    *  15/07/2026 WEDNESDAY - I started with the conditionals some of theory of the CS50P week 1 + inicial exercises of the problemSet 1. 
+    *  18/07/2026 SATURDAY - I watch the full video of FREECODEBOOTCAMP which is in YOUTUBE to brush up a little of Git & Github. GIT STATUS,  GIT LOG, GIT COMMIT, GIT INIT, GIT CLONE, PULL REQUEST, GIT CHECKOUT AND THE MERGE.
+    *  19/07/2026 SUNDAY - I read my Python script which is a bot trading on Hyperliquid focus on trade BTC-USDT. I develop this script with the help of IA FREE PLAN. I move mostly between Claude and Gemini. I used my knowledge on trading to develop the logic, and do some test on my computer, so I did a lot of versions of the same bot. Using Optuna and VectorBT. So my work know is try to understand the logic behing python. So I dedicate this day to learn something about my code, vulnerabilities and other thing, such as the KILL SWITCH and the PROTECTION LEVELS.
+     Also on this day I started my first Feynman Summary.  
